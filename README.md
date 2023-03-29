@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 My Portfolio <a name="about-project"></a>
 
-> This is my Portfolio I created it using HTML, CSS and JavaScript
+> This is my Portfolio I created it using HTML, CSS and JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a> 
 
