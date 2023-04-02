@@ -23,6 +23,11 @@ body {
   display: flex;
 }
 
+.flex-row1 {
+  display: flex;
+  flex-direction: column;
+}
+
 .menu-button {
   margin-top: 10px;
   margin-left: 1.9rem;
@@ -121,12 +126,14 @@ body {
 }
 
 .work-section {
-  width: 325px;
+  width: 375px;
+  height: 2788px;
   display: grid;
   text-align: left;
   padding: 25px;
   gap: 88px;
   margin-bottom: 90px;
+  background-color: #fff;
 }
 
 .work-section ul {
@@ -226,7 +233,6 @@ body {
   padding-top: 75px;
   padding-bottom: 114px;
   background-color: white;
-  border-top-right-radius: 85px;
 }
 
 .about-myself-container {
@@ -237,7 +243,7 @@ body {
 
 .lets-connect {
   color: #7f8cff;
-  font-size: 16px;
+  font-size: 13px;
   padding-top: 12px;
   padding-bottom: 12px;
 }
@@ -276,8 +282,26 @@ body {
   padding-bottom: 4px;
 }
 
+@font-face {
+  font-family: 'Poppins';
+  src: url('/fonts/Poppins/Poppins-Bold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('/fonts/Poppins/Poppins-Regular.ttf');
+  font-weight: normal;
+}
+
 .about-myself .about-myself-container .title {
   font-size: 20px;
+  font-weight: 700;
+}
+
+.about-myself .about-myself-container .title1 {
+  font-size: 20px;
+  font-weight: 500;
 }
 
 .language-list {
