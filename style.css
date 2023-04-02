@@ -133,7 +133,6 @@ body {
   padding: 25px;
   gap: 88px;
   margin-bottom: 90px;
-  background-color: #fff;
 }
 
 .work-section ul {
@@ -166,6 +165,17 @@ body {
   margin-left: 138px;
 }
 
+.work1,
+.work2,
+.work3,
+.work4,
+.about-myself {
+  border-radius: 16px;
+  background-color: white;
+  border: 1px solid lightgray;
+  padding: 15px;
+}
+
 .work1-detail ul li a {
   color: #2e4662;
 }
@@ -186,7 +196,6 @@ body {
 
 .work-description-detail ul li {
   font-size: 12px;
-  background-color: #eaebfe;
   padding: 4px 12px;
   border-radius: 8px;
 }
@@ -203,7 +212,7 @@ body {
 
 .btn:enabled {
   font-size: 19px;
-  text-align: start;
+  text-align: center;
   padding: 8px 1px;
   border: 1px solid #6070ff;
   width: 124px;
@@ -319,7 +328,6 @@ body {
 .about_myself .language-list > li {
   list-style: none;
   padding: 8px 10px;
-  background-color: #f7f7f9;
   padding-bottom: 1px;
   width: 260px;
   border-radius: 8px;
