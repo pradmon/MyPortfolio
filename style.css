@@ -146,6 +146,7 @@ body {
   list-style: none;
   margin-right: 15px;
   font-size: 13px;
+  padding-bottom: 20px;
 }
 
 .work1-title {
@@ -203,7 +204,7 @@ body {
 .btn:enabled {
   font-size: 19px;
   text-align: start;
-  padding: 12px 12px;
+  padding: 8px 1px;
   border: 1px solid #6070ff;
   width: 124px;
   border-radius: 8px;
@@ -244,8 +245,8 @@ body {
 .lets-connect {
   color: #7f8cff;
   font-size: 13px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .icons-socialMedia2 {
@@ -266,7 +267,7 @@ body {
 }
 
 .btnsummary {
-  width: 161px !important;
+  width: 130px !important;
   margin-bottom: 0.1px !important;
 }
 
