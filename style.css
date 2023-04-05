@@ -360,7 +360,6 @@ body {
 .contact {
   padding-top: 80px;
   position: relative;
-  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -370,6 +369,7 @@ body {
   background-repeat: no-repeat;
   background-position: 130% 20%;
   border-radius: 75px 0 0 0;
+  margin-left: -21px;
 }
 
 .contact_footer p {
@@ -451,56 +451,3 @@ form textarea {
   color: #fff;
 }
 
-/*
-form {
-  display: flex;
-  flex-direction: column;
-  row-gap: 20px;
-  margin: 70px 0;
-  font-family: 'Poppins', sans-serif;
-  align-items: start;
-  width: 327px;
-}
-
-form input {
-  padding: 10px;
-  height: 40px;
-  width: 100%;
-  border-radius: 8px;
-  font-size: 17px;
-  font-weight: 400;
-}
-
-form textarea {
-  padding: 10px;
-  width: 100%;
-  outline: none;
-  font-family: 'Poppins', sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-  height: 170px;
-  top: 5140px;
-  left: 21px;
-  border-radius: 8px;
-}
-
-.start {
-  width: 150px;
-  size: 17px;
-  font-weight: 500;
-  padding: 10px;
-  margin-bottom: 40px;
-  border-radius: 8px;
-}
-
-.form-start name1 {
-  padding-left: 47px;
-  align-items: center;
-  font-family: 'poppins', "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
-  font-style: normal;
-  font-weight: 700px;
-  font-size: 40px;
-  line-height: 52px;
-  color: #fff;
-}
-*/
