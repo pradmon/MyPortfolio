@@ -410,6 +410,9 @@ form input {
   padding: 10px;
   height: 40px;
   width: 100%;
+  border-radius: 8px;
+  font-size: 17px;
+  font-weight: 400;
 }
 
 form textarea {
@@ -417,9 +420,12 @@ form textarea {
   width: 100%;
   outline: none;
   font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
   height: 170px;
   top: 5140px;
   left: 21px;
+  border-radius: 8px;
 }
 
 .start {
@@ -429,4 +435,15 @@ form textarea {
   padding: 10px;
   margin-bottom: 40px;
   border-radius: 8px;
+}
+
+.form-start name {
+  padding-left: 47px;
+  align-items: center;
+  font-family: 'poppins', "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fff;
 }
