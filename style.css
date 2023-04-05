@@ -385,7 +385,7 @@ body {
   color: #ebebff;
 }
 
-.contact h1 {
+.contact h2 {
   padding-left: 47px;
   align-items: center;
   font-family: 'poppins', "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
@@ -428,4 +428,5 @@ form textarea {
   font-weight: 500;
   padding: 10px;
   margin-bottom: 40px;
+  border-radius: 8px;
 }
