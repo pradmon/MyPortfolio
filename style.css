@@ -410,6 +410,7 @@ form input {
   padding: 10px;
   height: 40px;
   width: 100%;
+  border-radius: 8px;
 }
 
 form textarea {
@@ -420,6 +421,7 @@ form textarea {
   height: 170px;
   top: 5140px;
   left: 21px;
+  border-radius: 8px;
 }
 
 .start {
