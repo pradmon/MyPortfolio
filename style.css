@@ -411,6 +411,7 @@ form input {
   height: 40px;
   width: 100%;
   border-radius: 8px;
+  border: none;
 }
 
 form textarea {
@@ -422,6 +423,7 @@ form textarea {
   top: 5140px;
   left: 21px;
   border-radius: 8px;
+  border: none;
 }
 
 .start {
